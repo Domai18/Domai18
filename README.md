@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my data analytics degree.
-- 🌱 I’m currently learning ways of implementing my learned analytical skills real world data.
-- 👯 I’m looking to collaborate on any collaboration projects to do with sports.
+- 🌱 I’m currently learning ways of implementing my learned analytical skills to real world data.
+- 👯 I’m looking to collaborate on any projects to do with sports/commerce analytics.
   
 
